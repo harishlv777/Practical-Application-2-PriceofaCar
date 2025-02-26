@@ -96,6 +96,7 @@ https://github.com/harishlv777/Practical-Application-2-PriceofaCar/blob/main/plo
 Practical_Application_2_Priceofcar_hlaxmina.jpynb - Jupyter notebook 
 data/vehicles.csv - Used car vehicles dataset
 plots/PracticalApp2_hlaxmina_plots - plots supporting the analysis
+readinds - crisp-dm-overview and crisp-dm-manual
 readme.md - current file
 
 # Requirements
