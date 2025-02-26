@@ -93,11 +93,11 @@ Below section lists the EDA process executed (on the vehicles.csv dataset) and k
 https://github.com/harishlv777/Practical-Application-2-PriceofaCar/blob/main/plots/PracticalApp2_hlaxmina_plots.pdf
 
 # Files
-Practical_Application_2_Priceofcar_hlaxmina.jpynb - Jupyter notebook 
-data/vehicles.csv - Used car vehicles dataset
-plots/PracticalApp2_hlaxmina_plots - plots supporting the analysis
-readinds - crisp-dm-overview and crisp-dm-manual
-readme.md - current file
+- Practical_Application_2_Priceofcar_hlaxmina.jpynb - Jupyter notebook 
+- data/vehicles.csv - Used car vehicles dataset
+- plots/PracticalApp2_hlaxmina_plots - plots supporting the analysis
+- readings - crisp-dm-overview and crisp-dm-manual
+- readme.md - current file
 
 # Requirements
 Python 3.x, pandas, numby, matplotlib, seaborn, scikit-learn
