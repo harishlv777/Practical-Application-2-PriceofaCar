@@ -89,7 +89,8 @@ Below section lists the EDA process executed (on the vehicles.csv dataset) and k
  
   - Comparing average vehicle price by title status, transmission an type. We observe cars with lien title status, transmissions other than manual, automatic (Other) and pickup trucks have higher price on average.
 
-
+# Plots
+https://github.com/harishlv777/Practical-Application-2-PriceofaCar/blob/main/plots/PracticalApp2_hlaxmina_plots.pdf
 
 
 
