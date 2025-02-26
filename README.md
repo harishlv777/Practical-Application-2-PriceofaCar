@@ -92,7 +92,16 @@ Below section lists the EDA process executed (on the vehicles.csv dataset) and k
 # Plots
 https://github.com/harishlv777/Practical-Application-2-PriceofaCar/blob/main/plots/PracticalApp2_hlaxmina_plots.pdf
 
+# Files
+Practical_Application_2_Priceofcar_hlaxmina.jpynb - Jupyter notebook 
+data/vehicles.csv - Used car vehicles dataset
+plots/PracticalApp2_hlaxmina_plots - plots supporting the analysis
+readme.md - current file
 
+# Requirements
+Python 3.x, pandas, numby, matplotlib, seaborn, scikit-learn
 
+# How to execute
+Clone the repository, build the environment with required packages, followed by Jypyter notebook execution.
 
 
